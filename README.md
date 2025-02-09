@@ -10,8 +10,6 @@ Bu proje, temel bir e-ticaret web sitesi örneğidir. Kullanıcılar ürünleri 
 - **Formik & Yup**: Form yönetimi ve doğrulama için
 - **Bootstrap & React-Bootstrap**: Stil ve bileşenler için
 - **Axios**: API istekleri için
-- **Styled Components**: Bileşen bazlı stillendirme için
-- **ESLint**: Kod kalitesini sağlamak için
 - **Vite**: Hızlı geliştirme ortamı için
 
 ## Kurulum
